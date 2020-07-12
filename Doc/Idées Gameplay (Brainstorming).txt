@@ -1,0 +1,50 @@
+Business model
+--------------
+
+Jeux d’aventure solo à composante multi-joueur et à composante as a service.
+
+- Solo : le jeu doit pouvoir se jouer seul, en favorisant une immersion dans un univers et un attachement à celui-ci. La motivation provient de la découverte et l'exploitation de l'univers plutôt que sur un aspect compétitif (qui peut toutefois être présent de manière secondaire).
+- À composante multi-joueur : due à l'époque actuelle, aux supports qui seront proposés, mais aussi au fait que le jeu s'y prête particulièrement bien. Le joueur pourra inviter d'autres joueurs dans sa partie, notamment pour visiter son appartement, participer à des activités communes avec lui, ou échanger des objets. Il pourra y avoir une composante plus compétitive ici pour inciter les joueurs à jouer ensemble. A creuser.
+- À composante as a service : pour maintenir l'intérêt du joueur, due aux supports qui seront proposés, mais aussi au fait que le jeu s'y prête particulièrement bien. Proposer des éisodes scénaristiques supplémentaires, des éléments de décorations supplémentaires.
+
+Le modèle économique sera pas cher à gratuit (en fonction des supports et du résultat final). Pas de free2play ni de pay2win. Le jeu sera un maximum complet dès sa sortie. Les éléments payants permettront uniquement d'acquérir du contenu supplémentaire et sans incidence importante sur le gameplay. Principalement de l'esthétique (des objets à acheter). L'idée est de trouver une solution pour que le jeu soit viable, mais il n'y a pas de but de maximiser le profit ! Jouer aussi sur la bonne foi est intéressant d'un point de vue marketing.
+
+Gameplay
+--------
+
+Les éléments qui ont du succès, à reprendre :
+- Relation avec différents personnages : dialogues, cadeaux
+- Besoin vitaux 
+- éléments de RPG
+- Personnalisation du personnage
+- Personnalisation de son habitat
+- Système de compétence
+- sentiment de progression (commencer pauvre et gagner en réputation, débloquer des objets qui jouent sur les autres mécaniques comme un robot auto-nettoyeur, un lit plus efficace).
+- Mini-jeux pour gagner de l'argent
+- Sentiment de liberté
+- Des secrets cachés !
+- Objectifs variés :
+	- recherche (parfois, la réponse n'est pas tout le temps indiquée clairement => objectif indirect (au joueur de choisir la manière d'y parvenir, par exemple devenir amis avec 5 personnes, à lui de choisir qui) ou faire appel au réalisme et aux codes du jeu pour que le joueur déduise lui-même des actions à prendre pour réaliser l'objectif (faire une recherche sur internet)).
+- Une vraie interaction entre les différents éléments de gameplay
+
+A ajouter :
+- Composante Farmville (ne doit pas arriver trop tôt car on risquerait de confondre le type de jeu)
+- Composante de mise à jour de contenu : ajout d'éléments pour la maison après le lancement du jeu, quêtes ajoutée aussi. MAIS le jeu doit être complet à l'origine. L'histoire doit se tenir, possibilité de rajouter des épisodes ou des petits segments narratifs.
+- Renforcer les éléments de RPG (ajouter des effets sur le personnage)
+- Narration sous forme de TV show !
+
+Scénario
+--------
+
+Le scénario est composé d'une succession d'épisodes relativement indépendants. Cela permet de pouvoir rajouter du contenu scénaristique après la sortie du jeu, ou en tout cas de pour voir facilement échelloner le contenu (approche itérative MVP).
+
+Certains épisodes peuvent se suivre, ce qui permet d'exoplorer plus profondément les axes narratifs.
+
+L'ariculation entre (saisons)-épisodes-quêtes-objectifs n'est pas encore tout à fait claire...
+
+Le scénario sera composé de plusieurs épisodes. Les raisons de ce choix sont multiples :
+-	Éviter la linéarité : Développer multiples thématiques, pouvoir explorer différents arcs narratifs. Familiarité avec le monde des séries télévisées, se familiariser avec différents personnages dont on va partager plusieurs moments de vie. Il n’y a pas un seul scénario avec un schéma narratif classique.
+-	Flexibilité dans le développement et la mise en production.
+-	Maintien de l’intérêt du joueur et ajout de contenu post-sortie.
+
+Il ne s’agit pas ici de faire un jeu as a service, ni un format complètement épisodique type Telltale. Il s’agit plutôt de se situer à mi-chemin entre les deux. Il doit être possible, à la fin du développement du jeu de sortir une version complète avec tous les éléments du jeu, mais n'empêchant pas l'ajout de nouveaux épisodes, voire de nouvelles mécaniques après.

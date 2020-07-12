@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<document>
+	<Dialog Key="init00">
+		<Sentence Key="Begin">
+			<Text>Hi, I'm Danny</Text>
+			<Choice Goto="init00_01">Hi, I'm Leo</Choice>
+			<Choice Goto="End">Hi, I'm Mary</Choice>
+		</Sentence>
+		<Sentence Key="init00_01">
+			<Text>Nice to meet you</Text>
+			<Choice Goto="End">Nice to meet you, too.</Choice>
+		</Sentence>
+	</Dialog>
+</document>

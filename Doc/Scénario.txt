@@ -1,0 +1,102 @@
+Amour, amitié, travail, santé.
+
+- Créer une réelle relation avec différents personnages. Ainsi, les personnages ne peuvent pas être trop génériques et doivent être capable de prendre leur propres décisions. Mettre en scène des hauts et des bas. Trahison, quiproquo, râlerie. Provoquer de l'inattendu, des surprises.
+
+- Travail d'abord sous forme de petits boulots, petits jobs. Puis création de startup (Farmville).
+
+- Implication politique : le personnage doit être impliqué dans la vie de sa communauté, il doit donc être aimé et haït par différents membres. Il participera donc aussi aux différents évènements de sa société.
+
+
+Idées de plots pour les épisodes :
+	- Pregnancy : un personnage devient enceinte, bien entendu c'est un accident. Fertility test, pregnancy test, abortion, miscarriage,...
+	- Annoying friend ou rival.
+	- Relation amoureuses entre des amis qui tournent mal.
+	- Le retour d'un être aimé ou de quelqu'un de connu.
+	- Person lies about something to get guy/girl, falls in love, is discovered and immediately dumped, wins them back
+	- Jamilah has her whole life figured out. But then, doubts come into play.
+	- Aller à l'unif et la quitter ou se faire virer au bout d'un moment, pour poursuivre sa carrière. Ou alors, on termine tout simplement.
+	- Dispute entre un drogué et quelqu'un d'autres (sensibilisation drogue)
+
+Idées de tâches à accomplir dans les épisodes :
+	- Trouver quelque chose : Pour donner à quelqu'un ou pour soi-même (atteindre un milestone).
+		- Des objets les plus facile à trouver aux plus rares (ne pas (nécessairement) DIRE comment le trouver : Si c'est une cafetière, le joueur sait qu'il va en trouver un au magasin, si c'est un truffe, il va falloir chercher un peu.)
+		- Peut nécessiter d'obtenir d'autres objets avant ou de composer en différentes étapes.
+		- Liberté de moye : on sait ce qu'on veut, mais il y a plusieurs façon de l'obtenir (exemples : obtenir 1000$, ou obtenir la cafetière dorée qui coute super cher mais que je peux crafter en combinant une cafetière et de la peinture).
+	- Atteindre un objectif dans un mini-jeu.
+	- Obtenir l'amitié d'un certain personnage.
+	- Récolter un certain montant d'argent.
+
+Idées diverses et variées, quu pourraient être cool à intégrer :
+	- La cafetière dorée : super cher en magasin, simple à crafter => cafetière + peinture => dénonce le foutage de gueule des industriels.
+
+Début (Tutoriel) :
+------------------
+
+Cet épisode a pour objectif d’introduire certaines mécaniques de base tout en introduisant le scénario.
+Mécaniques à explorer :
+-	Rencontrer un ami et nouer une relation avec lui.
+-	Apprendre les besoins vitaux.
+
+On arrive de la campagne, pour une vie nouvelle. On vient seulement d'emmenager dans cet appartement, prêté par Oncle Albert, jusqu'à ce qu'on trouve le sien. Il est équipé mais petit.
+
+(Le voyage a été long et éprouvant. D'abord on se fait à manger mais pendant que ça cuit, on veut aller à la toilette, et donc ça rate, le four explose et est cassé. Essayer de le réparer mais pas les compétences. On fini par utiliser le four à micro-onde (il faudra le réparer plus tard, donc acheter un nouveau four). Ensuite, comme c'est le carnage, il faut nettoyer un peu, puis prendre une douche.)
+
+Rencontre avec un premier personnage de sexe opposé. Les circonstances provoqueront dès le début une attraction pour accrocher le joueur à quelque chose. Ce personnage deviendra directement l'ami du héros. (C'est un peu la Penny Big Bang Theory du jeu).
+
+Après cette rencontre, la nuit passe et il va falloir trouver directement un travail. Sera aidé par Penny qui, heureusement, dispose de tuyaux. Ce premier travail sera relativement simple, au cinéma ou dans un bar (ou offrir le choix) et consistera en un mini-jeu. Ce sera l'occasion de rencontrer les premiers amis.
+
+On s'intègre donc dans un premier groupe d'amis qu'il va falloir fidéliser, et pour ce faire, avoir des activités ensemble. Les premières activités se situe toujours dans le cadre du tutoriel, càd faire découvrir les éléments de gameplay offerts par le jeu : faire du shopping, décorer son appart, inviter ses amis chez soi (et avoir leur avis), fête,...
+
+A la fin de ce premier épisode, un cliffhanger survient pour introduire les éléments du second épisode.
+
+My Mother is coming to town
+---------------------------
+
+Hier soir, il y a eu un gros évènement, qui a terminé très tard, et on s'est retrouvé à dormir chez Tanguy, un ami qui fut l'une des premières personnes rencontrée lorsqu'on est arrivé en ville. Ce matin, relativement tôt, nous sommes réveillé par un coup de téléphone. C'est la mère de Tanguy, qui lui annonce qu'elle débarque en ville.
+
+Tanguy, habituellement quelqu'un de plutôt cool, qui se laisse vivre, connait aussi très bien le caractère très trempé de sa mère, ce qui le met donc en panique. Il demande notre aide pour soigner cela.
+
+Dans un premier temps, il faut tout nettoyer. Il faut donc ramasser tous les déchets qui traînent et les jeter à la poubelle, avant un timer. Si nous avons la chance de finir cette tâche avant la fin de ce timer, la mère de Tanguy, en arrivant, ne râlera pas. Comme il y a le temps, Tanguy nous demande une toute dernière faveur. Il sait que quand elle arrivera, sa mère demandera un café au lait de graines de chiacotune (ou autre nom inventé), quelque chose de très rare (mais à laquelle elle tient absolument car le lait de vache est une ignominie contre la nation et le lait de soja c'est pas bon. Autrement dit, il lui faut un truc de bobo puissance 10). Mais c'est trop tard...
+
+La mère de Tanguy arrive, et révèle tout son pouvoir d'excentricité. Elle s'impose directement comme chez elle, accoste son fils de manière directe en lui parlant de mille et unes choses et fait connaissance avec nous sans vraiment nous écouter. Et elle demande enfin son café au lait de chicotune. Que nous n'avons pas. Puisque nous sommes si serviable et si gentil, elle nous demande si nous ne pouvons pas aller le chercher pour elle, pendant qu'elle fera autre chose avec son fils. Bien entendu, nous voilà forcé d'accepter.
+
+Nous nous mettons donc en recherche des différents ingrédients pour confectionner ce café, ce qui ne sera pas chose facile et demandera le concours de plusieurs de nos amis.
+
+(Question de l'échelle temporelle, si on revient beaucoup plus tard : assumer la dissonance, la mère sait que c'est dur à trouver, et elle se moque un peu de nous d'avoir mis autant de temps pour lui trouver ceci).
+
+Elle nous remercie tout de même de l'avoir trouvé et a bien vu combien elle pouvait nous faire confiance.
+
+My Mother is coming to town (part 2)
+------------------------------------
+
+La mère de Tanguy ayant apprécié le café qu'on lui a ramené, elle nous demande de lui faire découvrir la ville.
+
+C'est pourquoi elle nous demande de lui faire découvrir la ville. Il va falloir l'emmener visiter différents points d'intérêt, au choix, jusqu'à la satisfaire complètement. C'est l'occasion d'apprendre à la connaître mais aussi de découvrir des choses sur Tanguy. Mais attention, il faut que les activités lui plaisent, car la jauge peut descendre.
+
+Finalement, elle aime tellement cette ville qu'elle décide de s'y installer quelque temps ! C'est Tanguy qui nous en serra reconnaissant.
+
+The run to entrepreneurship
+--------------------------
+
+Tout commence par une conversation avec Sarah. Elle nous apprends qu'elle a encore subi les affres de son patron, qui la surcharge de travail. Elle se sent étouffée par son travail, dans l'impossibilité de réaliser ses projets personnels. Elle rêve d'indépendance.
+
+Quelques temps plus tard, nous recevons un coup de téléphone. C'est Sarah, qui nous apprends qu'elle a été virée, ou qu'elle a claqué la porte tellement elle en avait marre. Elle nous demande de la retrouver au café pour en discuter.
+
+Lorsque nous la retrouvons, elle nous apprend qu'elle a des plans. Elle en a marre d'être à la solde de son patron. Elle veut maintenant lancer sa propre affaire. Pour ce faire, la route à parcourir sera longue. Mais la première chose à faire sera de trouver une idée.
+
+Cela se fera en discutant avec divers personnages ou en tombant sur des objets (qui donneront l'idée) qui nous donnerons ces idées. Il faudra ensuite retourner voir Sarah qui, de son côté trouvera ses propres idées. Puisque toutes ces idées sont passionnantes Sarah nous demandera de choisir (possibilité d'asset flipping ?) ou en choisira une elle-même.
+
+Elle va maintenant plancher sur le projet.
+
+The run to entrepreneurship (part 2)
+------------------------------------
+Quelques temps plus tard, on retombe sur Sarah, ou elle nous appelle au téléphone.
+
+Elle a maintenant besoin de nous pour les prochaines étapes pour concrétiser son projet.
+
+Prochains épisodes :
+- Trouver des investisseurs.
+- Trouver de l'argent
+- Acheter du matériel
+- Trouver un local
+- Signer des contrats

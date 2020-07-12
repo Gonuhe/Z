@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<document>
+	<Dialog Key="MyMotherJustCalledMe">
+		<Sentence Key="Begin">
+			<Text>Merde ! C'était ma mère ! Elle arrive en ville !</Text>
+			<Choice Goto="01">Maintenant ?</Choice>
+		</Sentence>
+		<Sentence Key="01">
+			<Text>Oui ! Complètement à l'improviste. C'est son style, mais c'est une catastrophe !</Text>
+			<Choice Goto="02">Arrête de blaguer Tanguy, on sait tous que ta mère est limite pire que toi...</Choice>
+		</Sentence>
+		<Sentence Key="02">
+			<Text>Alors, non ! Vu l'état de mon appartement, tu ne peux pas savoir comment elle va réagir. Elle vas me faire toute une histoire, c'est une catastrophe !</Text>
+			<Choice Goto="03a">Tu n'as qu'à ranger !</Choice>
+			<Choice Goto="03b">Tu exagères, on a à peine bu quelques biè*** !</Choice>
+		</Sentence>
+		<Sentence Key="03a">
+			<Text>Super merci ! Un petit coup de main, peut-être ?</Text>
+			<Choice Goto="03a1">Euh... J'ai autre chose à faire...</Choice>
+			<Choice Goto="05">Ok...</Choice>
+		</Sentence>
+		<Sentence Key="04">
+			<Text>Allez, fait pas ton crevard !</Text>
+			<Choice Goto="04">Non !</Choice>
+			<Choice Goto="05">Bon, ok...</Choice>
+		</Sentence>
+		<Sentence Key="03b">
+			<Text>Il faut qu'on range, tu m'aides ?</Text>
+			<Choice Goto="04">Euh... J'ai autre chose à faire...</Choice>
+			<Choice Goto="05">Ok...</Choice>
+		</Sentence>
+		<Sentence Key="05">
+			<Text>Super merci ! Il faut ramasser tous les déchets ! Et il faut se dépécher, elle viens d'arriver à la gare, elle ne va pas tarder !</Text>
+			<Choice Goto="End">On s'y met alors !</Choice>
+		</Sentence>
+	</Dialog>
+</document>
